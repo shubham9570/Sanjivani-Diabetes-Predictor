@@ -63,7 +63,7 @@ The model takes the following health indicators as input:
 
 ## 📸 App Preview
 
-![Sanjivani App Screenshot](screenshots/app-preview.png)
+![Sanjivani App Screenshot](app-preview.png)
 
 ## 🛠️ Tech Stack
 
