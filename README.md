@@ -158,8 +158,8 @@ Contributions, issues and feature requests are welcome!
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [Suraj Bhan Pratap Singh](https://www.linkedin.com/in/shubham-kumar-480828293/?skipRedirect=true) |
-| 🐙 GitHub | [surajrajput999](https://github.com/shubham9570) |
+| 💼 LinkedIn | [Shubham Kumar](https://www.linkedin.com/in/shubham-kumar-480828293/?skipRedirect=true) |
+| 🐙 GitHub | [shubham9570](https://github.com/shubham9570) |
 | 🚀 Live App | [Sanjivani on Streamlit](https://sanjivani-diabetes-predictor-an6yfh5zfnx55h9rqybtjx.streamlit.app/) |
 
 </div>
@@ -174,7 +174,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made with ❤️ by **Suraj Bhan Pratap Singh**
+Made with ❤️ by **Shubham Kumar**
 
 *"Prevention is better than cure — Sanjivani helps you stay ahead."*
 
