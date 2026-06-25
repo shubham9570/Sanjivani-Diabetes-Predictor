@@ -5,8 +5,7 @@
 ### *Early Detection. Smarter Health.*
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://sanjivani-diabetes-predictor-an6yfh5zfnx55h9rqybtjx.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-surajrajput999-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajrajput999)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj_Bhan_Pratap_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/)
+[![GitHub](https://img.shields.io/badge/GitHub-shubham9570-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubham9570)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
